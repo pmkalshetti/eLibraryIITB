@@ -1,0 +1,8 @@
+Author OthersAuthor2
+
+Content
+
+Chapter
+
+1 - Color Image Processing
+2 - Histogram Equalization

@@ -1,0 +1,7 @@
+Author: MachineLearningAuthor2, MachineLearningAuthor2_1
+
+Content: 
+
+Chapters: 
+1 - Regression
+2 - Classification

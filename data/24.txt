@@ -1,0 +1,7 @@
+Author: AlgorithmAuthor3
+
+Content:
+Chapters:
+1 - Dynamic Programming
+2 - Greedy Algorithms
+3 - Randomized Algorithms
